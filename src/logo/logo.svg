@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150" viewBox="0 0 500 150">
+  <style>
+    .text { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 64px; }
+  </style>
+  <text x="20" y="95" class="text">
+    <tspan fill="black">Vardan</tspan><tspan fill="red">.Dev</tspan>
+  </text>
+</svg>
