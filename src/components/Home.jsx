@@ -21,7 +21,7 @@ function About() {
               {/* Project Link*/}
               <Link
                 className="inline-flex text-white items-center px-6 py-3 font-medium bg-orange-700 rounded-lg hover:opacity-75"
-                href="https://github.com/Vardantyagi12?tab=repositories"
+                to="https://github.com/Vardantyagi12?tab=repositories"
                 target="_blank"
                 rel="noopener noreferrer"
               >
